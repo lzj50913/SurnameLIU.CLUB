@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Surname Liu</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-15T07:03:17.793Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>LIU ZHI JIE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown工具——HexoEditor</title>
+    <link href="http://yoursite.com/2019/06/12/HexoEditor/"/>
+    <id>http://yoursite.com/2019/06/12/HexoEditor/</id>
+    <published>2019-06-11T17:17:22.439Z</published>
+    <updated>2019-06-15T07:03:17.793Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>这是Hexo的编辑器。</li><li>用Electron创造。   <a id="more"></a><h1 id="特征"><a href="#特征" class="headerlink" title="特征"></a>特征</h1></li><li>Hexo Post </li><li>Preview与浏览器相同</li><li>Hexo Post Preview与浏览器相同</li><li>Tag / Filter / Renderer支持</li><li>使用Hexo _config.yml支持</li><li>hexo源中的快速新帖子</li><li>快速修改文件名（在Hexo Post Edit中）</li><li>快速部署帖子</li><li>快速HEXO命令hexo d，hexo g，hexo s，hexo clean</li><li>自动将图像更改为Markdown</li><li>支持拖动图像</li><li>支持粘贴剪贴板图像</li><li>支持图像云（一步上传）</li><li>支持SM.MS</li><li>支持齐牛</li><li>支持腾讯</li><li>快速入门（通用目录，通用URL）</li><li>Scorll Together / None</li><li>HexoEditor（继承Moeditor）</li><li>GitHub调味降价</li><li>TeX数学表达式</li><li>UML图编辑中的代码突出显示</li><li>读/写/预览模式</li><li>自定义字体/行高/字体大小</li><li>自定义主题</li><li>代码突出显示主题（由highlight.js提供支持）</li><li>自动重新加载</li><li>本土化</li><li>对焦模式</li></ul><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><ul><li><img src="http://lc-3tmiixhk.cn-n1.lcfile.com/40006234d00e789958e8/333.png" alt="示例图片"></li><li><img src="http://lc-3tmiixhk.cn-n1.lcfile.com/61cf2e1d2362b124c987/222.png" alt="示例图片"></li><li><img src="http://lc-3tmiixhk.cn-n1.lcfile.com/bb774b8577c1deb80de0/111.png" alt="示例图片"></li></ul><hr><h1 id="日期"><a href="#日期" class="headerlink" title="日期"></a>日期</h1><ul><li>2019-06-12</li><li>02：28</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;这是Hexo的编辑器。&lt;/li&gt;
+&lt;li&gt;用Electron创造。&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/06/09/hello-world/"/>
+    <id>http://yoursite.com/2019/06/09/hello-world/</id>
+    <published>2019-06-09T15:02:50.449Z</published>
+    <updated>2019-06-09T15:02:50.449Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
