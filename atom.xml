@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-09T14:41:54.242Z</updated>
+  <updated>2019-11-13T15:08:30.053Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>更新一下吧</title>
+    <link href="http://yoursite.com/2019/11/13/%E6%9B%B4%E6%96%B0%E4%B8%80%E4%B8%8B%E5%90%A7/"/>
+    <id>http://yoursite.com/2019/11/13/更新一下吧/</id>
+    <published>2019-11-13T15:05:15.546Z</published>
+    <updated>2019-11-13T15:08:30.053Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="日期"><a href="#日期" class="headerlink" title="日期"></a>日期</h1><ul><li>2019-11-13</li><li>23:10</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;日期&quot;&gt;&lt;a href=&quot;#日期&quot; class=&quot;headerlink&quot; title=&quot;日期&quot;&gt;&lt;/a&gt;日期&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;2019-11-13&lt;/li&gt;
+&lt;li&gt;23:10&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2019.8.13 闸坡</title>
